@@ -72,17 +72,17 @@ Develop a machine learning model that predicts whether a person has diabetes bas
 ## Dataset Overview
 The dataset used is the **PIMA Indian Diabetes Dataset**, commonly utilized in medical ML studies. It consists of female patients of at least 21 years of age of Pima Indian heritage.
 
-| Feature | Description | Type |
-|----------|--------------|------|
-| `Pregnancies` | Number of times pregnant | Numeric |
-| `Glucose` | Plasma glucose concentration after 2 hours in an oral glucose tolerance test | Numeric |
-| `BloodPressure` | Diastolic blood pressure (mm Hg) | Numeric |
-| `SkinThickness` | Triceps skinfold thickness (mm) | Numeric |
-| `Insulin` | 2-Hour serum insulin (mu U/ml) | Numeric |
-| `BMI` | Body mass index (weight in kg/(height in m)^2) | Numeric |
-| `DiabetesPedigreeFunction` | A function that scores likelihood of diabetes based on family history | Numeric |
-| `Age` | Age (years) | Numeric |
-| `Outcome` | Class variable (0 = Non-diabetic, 1 = Diabetic) | Binary |
+| Feature                    | Description                                                                  |  Type   |
+|----------------------------|------------------------------------------------------------------------------|---------|
+| `Pregnancies`              | Number of times pregnant                                                     | Numeric |
+| `Glucose`                  | Plasma glucose concentration after 2 hours in an oral glucose tolerance test | Numeric |
+| `BloodPressure`            | Diastolic blood pressure (mm Hg)                                             | Numeric |
+| `SkinThickness`            | Triceps skinfold thickness (mm)                                              | Numeric |
+| `Insulin`                  | 2-Hour serum insulin (mu U/ml)                                               | Numeric |
+| `BMI`                      | Body mass index (weight in kg/(height in m)^2)                               | Numeric |
+| `DiabetesPedigreeFunction` | A function that scores likelihood of diabetes based on family history        | Numeric |
+| `Age`                      | Age (years)                                                                  | Numeric |
+| `Outcome`                  | Class variable (0 = Non-diabetic, 1 = Diabetic)                              | Binary  |
 
 ---
 
