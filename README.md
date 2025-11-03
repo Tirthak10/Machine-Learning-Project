@@ -327,7 +327,7 @@ Diabetes-Prediction-ML/
 ## Author
 
 **Tirthak Likhar**
-  Cybersecurity Learner
+| **Cybersecurity Learner** | 
 [GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
 
 ---
