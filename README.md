@@ -351,4 +351,3 @@ scikit-learn
 
 ---
 
-Would you like me to make it slightly **research-paper styled** (with academic tone and more structured section numbering), or keep it **GitHub-professional** like above?
